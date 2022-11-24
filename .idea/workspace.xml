@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cabf8c4d-9b11-495b-8344-4b5d499e0161" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JoKenPo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -58,7 +60,7 @@
       <workItem from="1669238244339" duration="953000" />
       <workItem from="1669239212866" duration="2378000" />
       <workItem from="1669246386480" duration="730000" />
-      <workItem from="1669301490262" duration="1429000" />
+      <workItem from="1669301490262" duration="2828000" />
     </task>
     <servers />
   </component>
