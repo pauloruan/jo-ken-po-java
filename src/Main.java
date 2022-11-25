@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static JoKenPo startGame() {
-        System.out.println("Welcome to JoKenPo! \n");
+        System.out.println("Welcome to JoKenPo!");
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter your name: ");
         String playerName = scan.next().toUpperCase();
@@ -14,6 +14,8 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        startGame();
+        JoKenPo joKenPo = startGame();
+        joKenPo.toPlay();
+        joKenPo.showFinalResult();
     }
 }
